@@ -82,7 +82,7 @@ section {
   @media (min-width: 992px) {
     #mainNav {
       border-color: transparent;
-      background-color: transparent; }
+      background-color: rgba(0, 0, 0, 0.1); }
       #mainNav .navbar-brand {
         color: fade(white, 70%); }
         #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
