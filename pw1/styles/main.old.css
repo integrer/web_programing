@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 100vh;
+  background:
+    url("../img/bg-pattern.png"),
+    linear-gradient(to top left, #7b4397, #dc2430);
+}
+
+nav {
+
+}
+
+section.download {
+
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  color: yellow;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  width: 100%;
+  clear: both;
+}
+
+.yellow_bg1 {
+  background: linear-gradient(#fdcc52, #fdc539);
+}
